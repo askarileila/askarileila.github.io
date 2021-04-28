@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
----
 layout: page
 title: Publications
 permalink: /publications/
