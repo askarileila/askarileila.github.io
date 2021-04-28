@@ -30,8 +30,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minimal
-#plugins:
+theme: jekyll-theme-architect
+plugins:
   #- jekyll-feed
 
 # Exclude from processing.
