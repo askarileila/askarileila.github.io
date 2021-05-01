@@ -4,15 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Journals:
+1. L.Askari, O.Ayoub, F.Musumeci, M.Tornatore. "On Dynamic Service Chaining in Filterless Optical Metro-Aggregation Networks". IEEE Access 8 (2020): 222233-222241
+2. L.Askari, F.Musumeci, M.Tornatore. "Reprovisioning for latency-aware dynamic service chaining in metro networks", Journal of Optical Communications and Networking 12.11 (2020): 355-366.
+3. A.Hmaity, M.Savi, L.Askari, F.Musumeci, M.Tornatore, A.Pattavina. “Latency- and Capacity-aware Placement of Chained Virtual Network Functions in FMC Metro Networks”, Journal of Optical Switching and Networking 35 (2020): 100536.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
