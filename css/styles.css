@@ -7335,8 +7335,9 @@ textarea.form-control-lg {
 }
 
 /* rtl:end:remove */
+/*title text color*/
 .text-primary {
-  color: #bd5d38 !important;
+  color: #266ea6 !important;
 }
 
 .text-secondary {
@@ -7390,9 +7391,9 @@ textarea.form-control-lg {
 .text-reset {
   color: inherit !important;
 }
-
+/*background color for navbar*/
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #266ea6 !important;
 }
 
 .bg-secondary {
